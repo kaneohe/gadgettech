@@ -1,0 +1,20 @@
+.header-with-nav {
+	background: $bondi-blue;
+	background-image: url('images/header-background.png');
+	background-size: 100%;
+	border-top: solid 1px lighten(black,10%);
+	padding: 20px 0 0 0;
+}
+header.site-header {
+	background: transparent;
+}
+header.header {
+	padding-top: 300px;
+
+	img {
+		position: absolute;
+		top: 220px;
+		width: 20%;
+		left: 40%;
+	}
+}

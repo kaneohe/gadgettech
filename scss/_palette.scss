@@ -1,0 +1,16 @@
+$bondi-blue: hsla(195, 100%, 38%, 1); // #0093c4;
+$interdimensional-blue: hsla(246, 67%, 44%, 1); // #3425bc;
+$timberwolf: hsla(315, 10%, 84%, 1); //#dad2d8;
+$vivid-cerulean: hsla(196, 100%, 47%, 1); // #00b1f0;
+$light-yellow: hsla(52, 94%, 94%, 1); // #fefae0;
+
+$foundation-palette: (
+  primary: $bondi-blue,
+  secondary: $interdimensional-blue,
+  tertiary: $timberwolf,
+  quaternary: $vivid-cerulean,
+  quinary: $light-yellow,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #ec5840,
+);

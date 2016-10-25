@@ -1,0 +1,25 @@
+.dark-blue-button {
+	display: block;
+	padding: 5px 10px;
+	border-radius: 5px;
+	background: hsla(246, 67%, 44%, 1);
+	color: white;
+	font-weight: 700;
+}
+
+.dark-blue-button a {
+	color: white;
+}
+
+.light-blue-button {
+	display: block;
+	padding: 5px 10px;
+	border-radius: 5px;
+	background: hsla(196, 100%, 47%, 1);
+	color: white;
+	font-weight: 700;
+}
+
+.light-blue-button a {
+	color: white;
+}

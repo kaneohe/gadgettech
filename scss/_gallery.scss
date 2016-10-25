@@ -1,0 +1,14 @@
+.kaneohe-gallery {
+	background-color: $light-gray;
+	background-image: url('images/noise.png');
+	background-repeat: repeat;
+	background-position: center center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top: 1px solid darken($light-gray, 10%);
+	border-bottom: 1px solid darken($light-gray, 10%);
+	
+	.slick-dots {
+		bottom: -45px;
+	}
+}
